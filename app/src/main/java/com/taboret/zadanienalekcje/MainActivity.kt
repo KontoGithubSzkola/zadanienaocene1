@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
      tekst.text = tekst.text.toString() + wpisz.text
  }
         przywroc.setOnClickListener {
-            tekst.text = "Julian Stajnke"
+            tekst.text = "Julian Stajnke."
         }
     }
 }
